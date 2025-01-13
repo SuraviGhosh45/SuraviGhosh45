@@ -1,6 +1,5 @@
 ![Banner](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)
 👋 **Hello, I’m Suravi Ghosh**<BR>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avirupray&label=Profile%20views&color=0e75b6&style=flat" alt="avirupray" /> </p>
 👀 I’m interested in **Aspiring Data Analyst | DSA**<BR>
 📈 Exploring the world of data and analytics while enhancing my skills.
 🌱 I’m currently learning Bachelor's of Computer Application
