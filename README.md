@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Suravi Ghosh
 ![Banner](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)
 # Aspiring Data Analyst 
-📈 Exploring the world of data and analytics while enhancing my skills.
+📈 Exploring the world of data and analytics while enhancing my skills.<br>
 🌱 I’m currently learning Bachelor's of Computer Application
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
