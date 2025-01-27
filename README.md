@@ -1,4 +1,3 @@
-## 👋 Hi, I'm Suravi Ghosh
 <img src="https://camo.githubusercontent.com/3167026abe932fe28cb61a7308549da706bc1a8ee81a3cc3169ea75991d2e3d5/68747470733a2f2f692e6962622e636f2f6b3234343135622f4769746875622d42616e6e65722e676966">
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="5%"/>, I'm Suravi Ghosh <img/> </h1>
 <section align=left>
