@@ -8,11 +8,10 @@
 
 <section align="left">
 
-<p align="center">
-  # 👩🏻‍💻 About Me<br>
+#  👩🏻‍💻 About Me
   ✔ Enthusiast about coding, problem solving, and creating elegant solutions with Python, MySQL and frontend development (HTML, CSS, JavaScript).<br>
   ✔ Focused on becoming a proficient developer through continuous learning and project building.
-</p>
+
 
 <p align="center">
   &#128231; Contact me: <a href="mailto:suravighosh45@gmail.com"><b>suravighosh45@gmail.com</b></a>
