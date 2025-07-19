@@ -9,7 +9,7 @@
 <section align="left">
 
 #  👩🏻‍💻 About Me
-  ✔ Enthusiast about coding, problem solving, and creating elegant solutions with Python, MySQL and frontend development (HTML, CSS, JavaScript).<br>
+  ✔ Enthusiast about coding, problem solving, and creating elegant solutions with Python, MySQL and .<br>
   ✔ Focused on becoming a proficient developer through continuous learning and project building.
 
 
