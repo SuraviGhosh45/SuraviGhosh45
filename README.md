@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 Aspiring Full Stack Developer | Python & MERN Stack | ML Enthusiast
+  🚀 Aspiring Backend Developer | Python & Node.js | MERN Stack | ML Enthusiast
 </h3>
 
 ---
@@ -14,16 +14,16 @@
 - 🎓 BCA Graduate (CGPA: 8.4)  
 - 💻 Passionate about Backend Development & Problem Solving  
 - 🧠 Solved **100+ problems on LeetCode**  
-- 🔬 Exploring **Machine Learning**  
-- 💼 Currently working as a **MERN Stack Developer Intern (Apr 2026 – Present)**  
-- 🌍 Open to **Fullstack web developer | jr. Software Developer | Software Developer Trainee**   
+- 🔬 Exploring **Machine Learning & Data Science**  
+- 💼 MERN Stack Developer Intern (Apr 2026 – Present)  
+- 🌍 Open to **Internships & Entry-Level Software Roles**  
 
 ---
 
 ## 🔥 What I’m Working On
-- ⚙️ Building scalable backend systems (Node.js, Express,MongoDB)  
-- 📊 Learning Machine Learning
-- 🤖 Beginner-friendly Machine Learning projects  
+- ⚙️ Building backend systems using Node.js, Express & MongoDB  
+- 📊 Learning Data Analysis & Visualization  
+- 🤖 Developing beginner-friendly ML projects  
 - 🧩 Improving DSA (Easy → Medium)  
 
 ---
@@ -40,7 +40,7 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
 
-### 🧠 ML
+### 🧠 Data & ML
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge)
@@ -60,28 +60,29 @@
 ## 📌 Featured Projects
 
 ### 🔹 Banking System Backend (Ongoing)
-- Secure backend using Node.js, Express & MongoDB  
-- JWT Authentication & Role-Based Access Control  
-- Transaction & account management system  
+- Built a secure backend system using Node.js, Express & MongoDB  
+- Implemented JWT authentication & role-based access control  
+- Designed transaction and account management features  
 
 ---
 
 ### 🔹 Breast Cancer Prediction System
-- ML model using Scikit-learn  
-- Flask-based web application  
-- Real-time prediction (Benign/Malignant)  
+- Developed ML model using Scikit-learn for classification  
+- Built Flask-based web app for real-time prediction  
+- Applied feature extraction using OpenCV  
 
 ---
 
 ### 🔹 Recipe Finder Web App
-- API-based project using JavaScript  
-- Search, random recipes & local storage  
+- Built API-based application using JavaScript  
+- Implemented search, random recipes & local storage  
+- Improved UI/UX with validation and error handling  
 
 ---
 
 ## 📈 Coding Progress
-- ✅ 100+ LeetCode problems solved  
-- 🔁 Consistently improving problem-solving skills  
+- ✅ Solved 100+ LeetCode problems  
+- 🔁 Continuously improving problem-solving skills  
 
 ---
 
@@ -103,4 +104,4 @@
 
 ---
 
-⭐ *Always learning, building, and improving step by step*
+⭐ *Focused on building real-world projects and growing as a developer*
