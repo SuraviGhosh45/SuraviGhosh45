@@ -14,7 +14,7 @@
 - 🎓 BCA Graduate (CGPA: 8.4)  
 - 💻 Passionate about Backend Development & Problem Solving  
 - 🧠 Solved **100+ problems on LeetCode**  
-- 🔬 Exploring **Machine Learning & Data Science**  
+- 🔬 Exploring **Machine Learning**  
 - 💼 MERN Stack Developer Intern (Apr 2026 – Present)  
 - 🌍 Open to **Internships & Entry-Level Software Roles**  
 
