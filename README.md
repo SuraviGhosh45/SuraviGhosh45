@@ -22,8 +22,7 @@
 
 ## 🔥 What I’m Working On
 - ⚙️ Building backend systems using Node.js, Express & MongoDB  
-- 📊 Learning Data Analysis & Visualization  
-- 🤖 Developing beginner-friendly ML projects  
+- 🔭 Currently looking to contribute to open-source projects and collaborate with developers
 - 🧩 Improving DSA (Easy → Medium)  
 
 ---
